@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ## 🏅 Minhas Certificações
 <div><!-- Azure AZ-900-->
 <a href="https://www.credly.com/badges/30fe4e2c-f59e-4a1a-b91e-eec4ddd5cfe7/public_url">
-  <img height= 80px; width= 80px; alt="Azure Fundamentals" src="https://github.com/idealista07/idealista07/blob/images/az-900.png">
+  <img height= 120px; width= 120px; alt="Azure Fundamentals" src="https://github.com/idealista07/idealista07/blob/images/az-900.png">
 </a>
 <!-- Azure SC-900-->
 <a href="https://www.credly.com/badges/008273c5-a4c3-4de7-afb5-61b7a55c143d/public_url">
