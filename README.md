@@ -27,5 +27,5 @@ Here are some ideas to get you started:
   ![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api?username=Idealista07&show_icons=true&bg_color=00000000)
   ![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Idealista07&layout=compact&langs_count&show_icons=true&bg_color=00000000)
 <!--Cobrinha-->
- ![snake gif](https://github.com/idealista07/idealista07/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/idealista07/idealista07/blob/output/github-contribution-grid-snake.svg)
 
