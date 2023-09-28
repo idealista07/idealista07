@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Douglas Ramos 👋
 
 <!--
 **idealista07/idealista07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--Quadro com Contador-->
+![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api?username=Idealista07&show_icons=true&bg_color=00000000)
+<!--Quadro de linguagens-->
+![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Idealista07&layout=compact&langs_count&show_icons=true&bg_color=00000000)
