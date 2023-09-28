@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 ![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Idealista07&layout=compact&langs_count&show_icons=true&bg_color=00000000)
 <!--Cobrinha-->
 ![Snake_animation](https://github.com/idealista07/idealista07/blob/output/github-contribution-grid-snake.svg)
+
+esta no Principal
