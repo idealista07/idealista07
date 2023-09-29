@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   ![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api?username=Idealista07&show_icons=true&bg_color=00000000)
   ![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Idealista07&layout=compact&langs_count&show_icons=true&bg_color=00000000)
     ![Snake animation](https://github.com/idealista07/idealista07/blob/output/github-contribution-grid-snake-dark.svg)
+<div>
 <table>
     <tr>
         <td>🏅 Certificações Microsoft</td>
@@ -89,6 +90,7 @@ Here are some ideas to get you started:
         <td></td>
     </tr>
 </table>
+</div>
 <table>
     <th colspan="2">🏅 Certificações Microsoft </th>
     <th>🏅 Certificações AWS</th>
