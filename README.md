@@ -84,7 +84,7 @@ Here are some ideas to get you started:
         <td>    
             <!-- Mikrotik MTCNA-->
             <a href="https://mikrotik.com/certificateSearch">
-              <img height= 120px; width= 120px; alt="mikrotik MTCNA" src="https://github.com/idealista07/idealista07/blob/images/MTCNA.png">
+              <img height= 120px; width= 201px; alt="mikrotik MTCNA" src="https://github.com/idealista07/idealista07/blob/images/MTCNA.png">
             </a>
         </td>
         <td></td>
