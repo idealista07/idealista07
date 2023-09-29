@@ -52,6 +52,7 @@ Here are some ideas to get you started:
               <img height= 120px; width= 120px; alt="Praticante de nuvem certificado pela AWS" src="https://github.com/idealista07/idealista07/blob/images/aws-p.png">
             </a>
         </td>
+        <td></td>
     </tr>
     <th>🏅 Certificações Oracle Cloud</th>
     <tr align=center>
@@ -61,6 +62,7 @@ Here are some ideas to get you started:
               <img height= 120px; width= 120px; alt="Oracle Cloud Infrastructure Foundations" src="https://github.com/idealista07/idealista07/blob/images/OCI-F.png">
             </a>
         </td>
+        <td></td>
     </tr>
     <th colspan="2">🏅 Certificações Fortinet </th>
         <tr>
@@ -85,5 +87,6 @@ Here are some ideas to get you started:
               <img height= 120px; width= 120px; alt="mikrotik MTCNA" src="https://github.com/idealista07/idealista07/blob/images/MTCNA.png">
             </a>
         </td>
+        <td></td>
     </tr>
     </table>
