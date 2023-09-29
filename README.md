@@ -91,15 +91,16 @@ Here are some ideas to get you started:
     </tr>
 </table>
 </div>
+
+
+
 <table>
     <th colspan="2">🏅 Certificações Microsoft </th>
-    <th>🏅 Certificações AWS</th>
-    <th colspan="2">🏅 Certificações Fortinet </th>
     <tr>
         <td>    
             <!-- Azure AZ-900-->
             <a href="https://www.credly.com/badges/30fe4e2c-f59e-4a1a-b91e-eec4ddd5cfe7/public_url">
-                <img height= 120px; width= 120px; alt="Azure Fundamentals" src="https://github.com/idealista07/idealista07/blob/images/az-900.png">
+         <img height= 120px; width= 120px; alt="Azure Fundamentals" src="https://github.com/idealista07/idealista07/blob/images/az-900.png">
             </a>
         </td>
         <td>
@@ -108,13 +109,19 @@ Here are some ideas to get you started:
               <img height= 120px; width= 120px; alt="Fundamentos de Segurança, Conformidade e Identidade" src="https://github.com/idealista07/idealista07/blob/images/sc-900.png">
             </a>
         </td>
+    </tr>
+    <th>🏅 Certificações AWS</th>
+    <tr>
         <td>    
             <!-- AWS Cloud Practitioner-->
             <a href="https://www.credly.com/badges/a5b5394d-7e41-4b81-94e0-d592a6f9dfdf/public_url">
               <img height= 120px; width= 120px; alt="Praticante de nuvem certificado pela AWS" src="https://github.com/idealista07/idealista07/blob/images/aws-p.png">
             </a>
         </td>
-        <td>    
+    </tr>
+    <th colspan="2">🏅 Certificações Fortinet </th>
+        <tr>
+                <td>    
             <!-- Fortinet NSE1-->
             <a href="https://training.fortinet.com/badges/badge.php?hash=38f4b6a0b8d6dd9dc3ed8509cedfc9dd1a8fa8f1">
               <img height= 120px; width= 120px; alt="Associado de Segurança de Rede 1" src="https://github.com/idealista07/idealista07/blob/images/NSE1.png">
@@ -126,6 +133,5 @@ Here are some ideas to get you started:
               <img height= 120px; width= 120px; alt="Associado de Segurança de Rede 2" src="https://github.com/idealista07/idealista07/blob/images/nse2.png">
             </a>
         </td>
-    </tr>
-    </tr>
-</table>
+        </tr>
+    </table>
