@@ -28,27 +28,9 @@ Here are some ideas to get you started:
   ![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Idealista07&layout=compact&langs_count&show_icons=true&bg_color=00000000)
     ![Snake animation](https://github.com/idealista07/idealista07/blob/output/github-contribution-grid-snake-dark.svg)
     
-</div>
-    <div>
-<table>
-    <tr>
-        <td>🏅 Certificações Mikrotik</td>
-        <td>    
-            <!-- Mikrotik MTCNA-->
-            <a href="https://mikrotik.com/certificateSearch">
-              <img height= 120px; width= 120px; alt="mikrotik MTCNA" src="https://github.com/idealista07/idealista07/blob/images/MTCNA.png">
-            </a>
-        </td>
-        <td></td>
-    </tr>
-</table>
-</div>
-
-
-
 <table>
     <th colspan="2">🏅 Certificações Microsoft </th>
-    <tr  align=center>
+    <tr align=center>
         <td>    
             <!-- Azure AZ-900-->
             <a href="https://www.credly.com/badges/30fe4e2c-f59e-4a1a-b91e-eec4ddd5cfe7/public_url">
