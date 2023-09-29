@@ -34,7 +34,7 @@ Here are some ideas to get you started:
         <td>    
             <!-- Azure AZ-900-->
             <a href="https://www.credly.com/badges/30fe4e2c-f59e-4a1a-b91e-eec4ddd5cfe7/public_url">
-         <img height= 120px; width= 120px; alt="Azure Fundamentals" src="https://github.com/idealista07/idealista07/blob/images/az-900.png">
+         <img height= 120px; width= 120px; alt="Azure Fundamentals" src="https://github.com/idealista07/idealista07/blob/images/AZ-900.png">
             </a>
         </td>
         <td> 
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
         <td>
             <!-- Fortinet NSE2-->
             <a href="https://training.fortinet.com/badges/badge.php?hash=7641d3ae307ea9a2d46c0ae1f97d4d1f4e5ede9e">
-              <img height= 120px; width= 120px; alt="Associado de Segurança de Rede 2" src="https://github.com/idealista07/idealista07/blob/images/nse2.png">
+              <img height= 120px; width= 120px; alt="Associado de Segurança de Rede 2" src="https://github.com/idealista07/idealista07/blob/images/NSE2.png">
             </a>
         </td>
         </tr>
