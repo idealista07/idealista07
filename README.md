@@ -11,10 +11,9 @@
 <div>
     
 <!--Quadro com Contador, Quadro de linguagens-->
-  ![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api?username=Idealista07&show_icons=true&bg_color=00000000)
+  ![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api?username=idealista07&show_icons=true&bg_color=00000000)
   ![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Idealista07&layout=compact&langs_count&show_icons=true&bg_color=00000000)
     ![Snake animation](https://github.com/idealista07/idealista07/blob/output/github-contribution-grid-snake-dark.svg)
-    
 <table>
     <th colspan="2">🏅 Certificações Microsoft </th>
     <tr align=center>
@@ -77,10 +76,8 @@
         <td></td>
     </tr>
     </table>
-## My favorite tools and technologies ⚙️
-
+<!--## My favorite tools and technologies ⚙️
 > Tools and technologies that I have worked with and am interested in
-
 <table>
   <tr>
        <td align="center" width="96">
@@ -93,13 +90,7 @@
     </td>
   </tr>
 </table>
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-
-
-</details>
-<!--Escopo padrão **idealista07/idealista07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Escopo padrão **idealista07/idealista07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -108,4 +99,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ...
+  <details>
+  <summary>Certificações 👁️</summary>
+  <br/>
+</details>
+-->
