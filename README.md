@@ -13,7 +13,8 @@
 <!--Quadro com Contador, Quadro de linguagens-->
   ![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api?username=idealista07&show_icons=true&bg_color=00000000)
   ![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Idealista07&layout=compact&langs_count&show_icons=true&bg_color=00000000)
-    ![Snake animation](https://github.com/idealista07/idealista07/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/idealista07/idealista07/blob/output/github-contribution-grid-snake-dark.svg)
+
 <table>
     <th colspan="2">🏅 Certificações Microsoft </th>
     <tr align=center>
