@@ -1,4 +1,4 @@
-r<h3>### Hi, I'm Douglas Ramos 👋</h3>
+<h3>### Hi, I'm Douglas Ramos 👋</h3>
 <div align="justify">
 <a href = "https://api.whatsapp.com/send/?phone=48996635252&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href = "mailto:ramos.ti@live.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
