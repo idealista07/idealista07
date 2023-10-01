@@ -65,6 +65,12 @@
               <img height= 120px; width= 120px; alt="Associado de Segurança de Rede 2" src="https://github.com/idealista07/idealista07/blob/images/NSE2.png">
             </a>
         </td>
+        <td>
+            <!-- Fortinet Fundamentos Cybersecurity-->
+            <a href="https://training.fortinet.com/badges/badge.php?hash=7641d3ae307ea9a2d46c0ae1f97d4d1f4e5ede9e">
+              <img height= 120px; width= 120px; alt="Associado de Segurança de Rede 2" src="https://github.com/idealista07/idealista07/blob/images/FCF-F.png">
+            </a>
+        </td>
         </tr>
     <th>🏅 Certificações Oracle Cloud</th>
     <tr align=center>
