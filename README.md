@@ -52,25 +52,14 @@
         <td></td>
     </tr>
     <th colspan="2">🏅 Certificações Fortinet </th>
-        <tr>
-            <td align=center>     
-            <!-- Fortinet NSE1-->
-            <a href="https://training.fortinet.com/badges/badge.php?hash=38f4b6a0b8d6dd9dc3ed8509cedfc9dd1a8fa8f1">
-              <img height= 120px; width= 120px; alt="Associado de Segurança de Rede 1" src="https://github.com/idealista07/idealista07/blob/images/NSE1.png">
-            </a>
+        <tr align=center>
+            <td>
+                <!-- Fortinet Fundamentos Cybersecurity-->
+                <a href="https://credly.com/badges/d82a2876-db33-400e-bde5-a416443ca755">
+                  <img height= 120px; width= 120px; alt="Fortinet Fundamentos Cybersecurity" src="https://github.com/idealista07/idealista07/blob/images/FCF-C.png">
+                </a>
             </td>
-        <td>
-            <!-- Fortinet NSE2-->
-            <a href="https://training.fortinet.com/badges/badge.php?hash=7641d3ae307ea9a2d46c0ae1f97d4d1f4e5ede9e">
-              <img height= 120px; width= 120px; alt="Associado de Segurança de Rede 2" src="https://github.com/idealista07/idealista07/blob/images/NSE2.png">
-            </a>
-        </td>
-        <td>
-            <!-- Fortinet Fundamentos Cybersecurity-->
-            <a href="https://training.fortinet.com/badges/badge.php?hash=7641d3ae307ea9a2d46c0ae1f97d4d1f4e5ede9e">
-              <img height= 120px; width= 120px; alt="Associado de Segurança de Rede 2" src="https://github.com/idealista07/idealista07/blob/images/FCF-F.png">
-            </a>
-        </td>
+            <td></td>
         </tr>
     <th>🏅 Certificações Oracle Cloud</th>
     <tr align=center>
