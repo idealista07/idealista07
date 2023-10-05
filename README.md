@@ -73,7 +73,7 @@
     </tr>
     </table>
     
-<!--## My favorite tools and technologies ⚙️
+## My favorite tools and technologies ⚙️
 > Tools and technologies that I have worked with and am interested in
 <table>
   <tr>
@@ -98,7 +98,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   <details>
-  <summary>Certificações 👁️</summary>
+  <summary>Cursos 👁️</summary>
   <br/>
+    <th>🏅 Certificados de Redes</th>
+    <tr align=center>
+        <td>    
+            <!-- Mikrotik MTCNA-->
+            <a href="#">
+              <img height= 120px; width= 201px; alt="DLTEC_REDES_BASICO" src="/Certificados/Redes/DLTEC_BasicodeRedes.pdf">
+            </a>
+        </td>
+        <td></td>
+    </tr>
 </details>
--->
