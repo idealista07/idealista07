@@ -21,13 +21,13 @@
         <td>    
             <!-- Azure AZ-900-->
             <a href="https://www.credly.com/badges/30fe4e2c-f59e-4a1a-b91e-eec4ddd5cfe7/public_url">
-         <img height= 120px; width= 120px; alt="Azure Fundamentals" src="https://github.com/idealista07/idealista07/blob/images/AZ-900.png">
+         <img height= 120px; width= 120px; alt="Azure Fundamentals" src="/Badges/AZ-900.png">
             </a>
         </td>
         <td> 
             <!-- Azure SC-900-->
             <a href="https://www.credly.com/badges/008273c5-a4c3-4de7-afb5-61b7a55c143d/public_url">
-              <img height= 120px; width= 120px; alt="Fundamentos de Segurança, Conformidade e Identidade" src="https://github.com/idealista07/idealista07/blob/images/sc-900.png">
+              <img height= 120px; width= 120px; alt="Fundamentos de Segurança, Conformidade e Identidade" src="/Badges/sc-900.png">
             </a>
         </td>
     </tr>
@@ -36,7 +36,7 @@
         <td>    
             <!-- AWS Cloud Practitioner-->
             <a href="https://www.credly.com/badges/a5b5394d-7e41-4b81-94e0-d592a6f9dfdf/public_url">
-              <img height= 120px; width= 120px; alt="Praticante de nuvem certificado pela AWS" src="https://github.com/idealista07/idealista07/blob/images/aws-p.png">
+              <img height= 120px; width= 120px; alt="Praticante de nuvem certificado pela AWS" src="/Badges/aws-p.png">
             </a>
         </td>
         <td></td>
@@ -46,7 +46,7 @@
         <td>    
             <!-- Oracle OCI Foundation-->
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499">
-              <img height= 120px; width= 120px; alt="Oracle Cloud Infrastructure Foundations" src="https://github.com/idealista07/idealista07/blob/images/OCI-F.png">
+              <img height= 120px; width= 120px; alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png">
             </a>
         </td>
         <td></td>
@@ -56,7 +56,7 @@
             <td>
                 <!-- Fortinet Fundamentos Cybersecurity-->
                 <a href="https://credly.com/badges/d82a2876-db33-400e-bde5-a416443ca755">
-                  <img height= 120px; width= 120px; alt="Fortinet Fundamentos Cybersecurity" src="https://github.com/idealista07/idealista07/blob/images/FCF-C.png">
+                  <img height= 120px; width= 120px; alt="Fortinet Fundamentos Cybersecurity" src="/Badges/FCF-C.png">
                 </a>
             </td>
             <td></td>
@@ -66,7 +66,7 @@
         <td>    
             <!-- Mikrotik MTCNA-->
             <a href="https://mikrotik.com/certificateSearch">
-              <img height= 120px; width= 201px; alt="mikrotik MTCNA" src="https://github.com/idealista07/idealista07/blob/images/MTCNA.png">
+              <img height= 120px; width= 201px; alt="mikrotik MTCNA" src="/Badges/MTCNA.png">
             </a>
         </td>
         <td></td>
