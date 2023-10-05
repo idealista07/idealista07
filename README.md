@@ -73,7 +73,7 @@
     </tr>
     </table>
     
-<!--## My favorite tools and technologies ⚙️
+## My favorite tools and technologies ⚙️
 > Tools and technologies that I have worked with and am interested in
 <table>
   <tr>
@@ -101,4 +101,3 @@ Here are some ideas to get you started:
   <summary>Certificações 👁️</summary>
   <br/>
 </details>
--->
