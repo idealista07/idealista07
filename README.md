@@ -103,7 +103,7 @@ Here are some ideas to get you started:
     <th>🏅 Certificados de Redes</th>
     <tr align=center>
         <td>    
-            <!-- Mikrotik MTCNA-->
+            Mikrotik MTCNA
             <a href="#">
               <img height= 120px; width= 201px; alt="DLTEC_REDES_BASICO" src="/Certificados/Redes/DLTEC_BasicodeRedes.pdf">
             </a>
