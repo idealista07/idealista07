@@ -61,7 +61,7 @@
             </td>
             <td></td>
         </tr>
-    <th>🏅 Certificações Oracle Cloud</th>
+    <th>🏅 Certificações Mikrotik</th>
     <tr align=center>
         <td>    
             <!-- Mikrotik MTCNA-->
