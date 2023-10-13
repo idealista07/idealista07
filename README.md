@@ -16,7 +16,7 @@
   ![Snake animation](https://github.com/idealista07/idealista07/blob/output/github-contribution-grid-snake-dark.svg)
 
 <table>
-    <th colspan="2">🏅 Certificações Microsoft </th>
+    <th colspan="2">🏅 Certifications Microsoft </th>
     <tr align=center>
         <td>    
             <!-- Azure AZ-900-->
@@ -31,7 +31,7 @@
             </a>
         </td>
     </tr>
-    <th>🏅 Certificações AWS</th>
+    <th>🏅 Certification AWS</th>
     <tr align=center>
         <td>    
             <!-- AWS Cloud Practitioner-->
@@ -41,7 +41,7 @@
         </td>
         <td></td>
     </tr>
-    <th>🏅 Certificações Oracle Cloud</th>
+    <th>🏅 Certification Oracle Cloud</th>
     <tr align=center>
         <td>    
             <!-- Oracle OCI Foundation-->
@@ -51,7 +51,7 @@
         </td>
         <td></td>
     </tr>
-    <th colspan="2">🏅 Certificações Fortinet </th>
+    <th colspan="2">🏅 Certification Fortinet </th>
         <tr align=center>
             <td>
                 <!-- Fortinet Fundamentos Cybersecurity-->
@@ -61,7 +61,7 @@
             </td>
             <td></td>
         </tr>
-    <th>🏅 Certificações Mikrotik</th>
+    <th>🏅 Certification Mikrotik</th>
     <tr align=center>
         <td>    
             <!-- Mikrotik MTCNA-->
