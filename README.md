@@ -11,8 +11,8 @@
 <div>
     
 <!--Quadro com Contador, Quadro de linguagens-->
-  ![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api?username=idealista07&show_icons=true&bg_color=00000000)
-  ![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Idealista07&layout=compact&langs_count=7&show_icons=true&bg_color=00000000)
+![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api?username=Idealista07&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+  ![Idealista07 Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Idealista07&layout=compact&langs_count=7&show_icons=true&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
   ![Snake animation](https://github.com/idealista07/idealista07/blob/output/github-contribution-grid-snake-dark.svg)
 
 <table>
