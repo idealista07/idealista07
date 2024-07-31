@@ -36,8 +36,6 @@
             </a>
         </td>
     </tr>
-</table>
-<table>
     <th colspan="2">🏅 Certifications Microsoft </th>
     <tr align=center>
         <td>    
