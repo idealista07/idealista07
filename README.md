@@ -16,7 +16,7 @@
 ![Snake animation](https://github.com/idealista07/idealista07/blob/output/github-contribution-grid-snake-dark.svg)
 <table>
   <th colspan="3">🏅 Certification Oracle Cloud</th>
-    <tr>
+    <tr align=center>
         <td>    
             <!-- Oracle OCI Foundation-->
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499">
