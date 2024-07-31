@@ -16,20 +16,20 @@
 ![Snake animation](https://github.com/idealista07/idealista07/blob/output/github-contribution-grid-snake-dark.svg)
 <table>
   <th colspan="3">🏅 Certification Oracle Cloud</th>
-    <tr align=center>
-        <td>    
+    <tr>
+        <td align=center>    
             <!-- Oracle OCI Foundation-->
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499">
               <img height= 90px;  width= 180px; alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png">
             </a>
         </td>
-        <td>
+        <td align=center>
             <!-- Oracle OCI Data Management-->
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D63B1CF3669A4CE442502DD9FA8A15B4770443EBB4F8BCD3FE28CF96399598D8">
               <img height= 90px; width= 180px; alt="Oracle Cloud Data Management" src="/Badges/OCI-F-DT.png">
             </a>
         </td>
-        <td>
+        <td align=center>
             <!-- Oracle OCI AI-->
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2769EA13B7D2E9E1B4503BC229579EA750F9513A4047AF98B43E650CAE9714B2">
               <img height= 90px; width= 180px; alt="Oracle Cloud AI Foundations Associate" src="/Badges/OCI-F-AI.png">
@@ -51,11 +51,9 @@
             </a>
         </td>
     </tr>
-</table>
-<table>
     <th colspan="1">🏅 Certification AWS</th>
-    <tr align=center>
-        <td>    
+    <tr>
+        <td align=center>    
             <!-- AWS Cloud Practitioner-->
             <a href="https://www.credly.com/badges/a5b5394d-7e41-4b81-94e0-d592a6f9dfdf/public_url">
               <img height= 120px; width= 120px; alt="Praticante de nuvem certificado pela AWS" src="/Badges/aws-p.png">
@@ -63,8 +61,8 @@
         </td>
     </tr>
     <th>🏅 Certification Fortinet </th>
-        <tr align=center>
-            <td>
+        <tr>
+            <td align=center>
                 <!-- Fortinet Fundamentos Cybersecurity-->
                 <a href="https://credly.com/badges/d82a2876-db33-400e-bde5-a416443ca755">
                   <img height= 120px; width= 120px; alt="Fortinet Fundamentos Cybersecurity" src="/Badges/FCF-C.png">
@@ -72,8 +70,8 @@
             </td>
         </tr>
     <th>🏅 Certification Mikrotik</th>
-    <tr align=center>
-        <td>    
+    <tr>
+        <td align=center>    
             <!-- Mikrotik MTCNA-->
             <a href="https://mikrotik.com/certificateSearch">
               <img height= 120px; width= 201px; alt="mikrotik MTCNA" src="/Badges/MTCNA.png">
