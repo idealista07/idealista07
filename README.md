@@ -59,7 +59,6 @@
               <img height= 120px; width= 120px; alt="Praticante de nuvem certificado pela AWS" src="/Badges/aws-p.png">
             </a>
         </td>
-        <td></td>
     </tr>
     <th>🏅 Certification Fortinet </th>
         <tr align=center>
@@ -69,7 +68,6 @@
                   <img height= 120px; width= 120px; alt="Fortinet Fundamentos Cybersecurity" src="/Badges/FCF-C.png">
                 </a>
             </td>
-            <td></td>
         </tr>
     <th>🏅 Certification Mikrotik</th>
     <tr align=center>
@@ -79,7 +77,6 @@
               <img height= 120px; width= 201px; alt="mikrotik MTCNA" src="/Badges/MTCNA.png">
             </a>
         </td>
-        <td></td>
     </tr>
     </table>
     
