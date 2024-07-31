@@ -78,7 +78,7 @@
     <th>Mikrotik</th><th>
             <!-- Mikrotik MTCNA-->
             <a href="https://mikrotik.com/certificateSearch">
-              <img height= 120px; width= 201px; ![2211NA7531](src="/Badges/MTCNA.png")>
+              <img height= 120px; width= 201px; ![2211NA7531](/Badges/MTCNA.png)>
             </a>
     </th>
     </tr>
