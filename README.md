@@ -15,26 +15,28 @@
 ![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api?username=Idealista07&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Snake animation](https://github.com/idealista07/idealista07/blob/output/github-contribution-grid-snake-dark.svg)
 <table>
-  <tr colspan="3">🏅 Certification Oracle Cloud    </tr>
-        <td>    
+<tr>
+  <th>🏅 Certification Oracle Cloud    </th>
+        <td align=center>    
             <!-- Oracle OCI Foundation-->
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499">
               <img height= 90px;  width= 180px; alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png">
             </a>
         </td>
-        <td>
+        <td align=center>
             <!-- Oracle OCI Data Management-->
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D63B1CF3669A4CE442502DD9FA8A15B4770443EBB4F8BCD3FE28CF96399598D8">
               <img height= 90px; width= 180px; alt="Oracle Cloud Data Management" src="/Badges/OCI-F-DT.png">
             </a>
         </td>
-        <td>
+        <td align=center>
             <!-- Oracle OCI AI-->
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2769EA13B7D2E9E1B4503BC229579EA750F9513A4047AF98B43E650CAE9714B2">
               <img height= 90px; width= 180px; alt="Oracle Cloud AI Foundations Associate" src="/Badges/OCI-F-AI.png">
             </a>
         </td>
-    <tr colspan="2">🏅 Certifications Microsoft
+        </tr>
+    <th >🏅 Certifications Microsoft</th>
         <td align=center>    
             <!-- Azure AZ-900-->
             <a href="https://www.credly.com/badges/30fe4e2c-f59e-4a1a-b91e-eec4ddd5cfe7/public_url">
@@ -48,8 +50,8 @@
             </a>
         </td>
     </tr>
-    <th>🏅 Certification AWS</th>
     <tr>
+    <th>🏅 Certification AWS</th>
         <td align=center>    
             <!-- AWS Cloud Practitioner-->
             <a href="https://www.credly.com/badges/a5b5394d-7e41-4b81-94e0-d592a6f9dfdf/public_url">
@@ -57,17 +59,17 @@
             </a>
         </td>
     </tr>
+    <tr>
     <th>🏅 Certification Fortinet </th>
-        <tr align=center>
-            <td>
+            <td align=center>
                 <!-- Fortinet Fundamentos Cybersecurity-->
                 <a href="https://credly.com/badges/d82a2876-db33-400e-bde5-a416443ca755">
                   <img height= 120px; width= 120px; alt="Fortinet Fundamentos Cybersecurity" src="/Badges/FCF-C.png">
                 </a>
             </td>
         </tr>
+        <tr>
     <th>🏅 Certification Mikrotik</th>
-    <tr>
         <td align=center>    
             <!-- Mikrotik MTCNA-->
             <a href="https://mikrotik.com/certificateSearch">
