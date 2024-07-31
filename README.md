@@ -41,7 +41,7 @@
         </td>
         <td></td>
     </tr>
-    <th>🏅 Certification Oracle Cloud</th>
+    <th colspan="3">🏅 Certification Oracle Cloud</th>
     <tr align=center>
         <td>    
             <!-- Oracle OCI Foundation-->
@@ -62,7 +62,7 @@
             </a>
         </td>
     </tr>
-    <th colspan="2">🏅 Certification Fortinet </th>
+    <th>🏅 Certification Fortinet </th>
         <tr align=center>
             <td>
                 <!-- Fortinet Fundamentos Cybersecurity-->
