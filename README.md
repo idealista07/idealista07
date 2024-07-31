@@ -36,7 +36,7 @@
             </a>
         </td>
     </tr>
-    <th colspan="3">🏅 Certifications Microsoft </th>
+    <th colspan="2">🏅 Certifications Microsoft </th>
     <tr>
         <td  align=center>    
             <!-- Azure AZ-900-->
@@ -51,7 +51,7 @@
             </a>
         </td>
     </tr>
-    <th colspan="1">🏅 Certification AWS</th>
+    <th>🏅 Certification AWS</th>
     <tr>
         <td align=center>    
             <!-- AWS Cloud Practitioner-->
