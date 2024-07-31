@@ -51,7 +51,7 @@
             </a>
         </td>
     </tr>
-    <th colspan="3">🏅 Certification AWS</th>
+    <th colspan="2">🏅 Certification AWS</th>
     <tr>
         <td>    
             <!-- AWS Cloud Practitioner-->
