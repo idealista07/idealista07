@@ -46,7 +46,7 @@
         <td>    
             <!-- Oracle OCI Foundation-->
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499">
-              <!--img height= 120px; width= 120px; alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png">-->
+              <img height= 120px; width= 120px; alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png">
             </a>
         </td>
         <td>
