@@ -27,7 +27,7 @@
         <td> 
             <!-- Azure SC-900-->
             <a href="https://www.credly.com/badges/008273c5-a4c3-4de7-afb5-61b7a55c143d/public_url">
-              <img height= 120px; width= 120px; alt="Fundamentos de Segurança, Conformidade e Identidade" src="/Badges/sc-900.png">
+              <img height= 120px; alt="Fundamentos de Segurança, Conformidade e Identidade" src="/Badges/sc-900.png">
             </a>
         </td>
     </tr>
