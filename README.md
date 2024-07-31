@@ -32,7 +32,7 @@
         <td>
             <!-- Oracle OCI AI-->
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2769EA13B7D2E9E1B4503BC229579EA750F9513A4047AF98B43E650CAE9714B2">
-              <img height= 120px; alt="Oracle Cloud AI Foundations Associate" src="/Badges/OCI-F-AI.png">
+              <img height= 60px; width= 120px; alt="Oracle Cloud AI Foundations Associate" src="/Badges/OCI-F-AI.png">
             </a>
         </td>
     </tr>
