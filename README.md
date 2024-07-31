@@ -36,7 +36,7 @@
             </a>
         </td>
     </tr>
-    <th colspan="2">🏅 Certifications Microsoft </th>
+    <th >🏅 Certifications Microsoft </th>
     <tr align=center>
         <td>    
             <!-- Azure AZ-900-->
