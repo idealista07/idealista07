@@ -49,7 +49,18 @@
               <img height= 120px; width= 120px; alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png">
             </a>
         </td>
-        <td></td>
+        <td>
+            <!-- Oracle OCI Data Management-->
+            <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499">
+              <img height= 120px; width= 120px; alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-FD.png">
+            </a>
+        </td>
+        <td>
+            <!-- Oracle OCI AI-->
+            <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499">
+              <img height= 120px; width= 120px; alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-FAI.png">
+            </a>
+        </td>
     </tr>
     <th colspan="2">🏅 Certification Fortinet </th>
         <tr align=center>
