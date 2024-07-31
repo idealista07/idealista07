@@ -35,7 +35,9 @@
               <img height= 120px; alt="Oracle Cloud AI Foundations Associate" src="/Badges/OCI-F-AI.png">
             </a>
         </td>
-    </tr>  
+    </tr>
+</table>
+<table>
     <th colspan="2">🏅 Certifications Microsoft </th>
     <tr align=center>
         <td>    
@@ -51,6 +53,8 @@
             </a>
         </td>
     </tr>
+</table>
+<table>
     <th colspan="1">🏅 Certification AWS</th>
     <tr align=center>
         <td>    
