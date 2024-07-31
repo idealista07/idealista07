@@ -16,7 +16,7 @@
 ![Snake animation](https://github.com/idealista07/idealista07/blob/output/github-contribution-grid-snake-dark.svg)
 <table>
   <th colspan="3">🏅 Certification Oracle Cloud</th>
-    <tr align=center>
+    <tr>
         <td>    
             <!-- Oracle OCI Foundation-->
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499">
@@ -36,8 +36,8 @@
             </a>
         </td>
     </tr>
-    <th>🏅 Certifications Microsoft </th>
-    <tr>
+    <th colspan="3">🏅 Certifications Microsoft </th>
+    <tr align=center>
         <td>    
             <!-- Azure AZ-900-->
             <a href="https://www.credly.com/badges/30fe4e2c-f59e-4a1a-b91e-eec4ddd5cfe7/public_url">
