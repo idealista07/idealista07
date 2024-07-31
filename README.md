@@ -63,7 +63,7 @@
     </tr>
     <th>🏅 Certification Fortinet </th>
         <tr>
-            <td align=center>
+            <td>
                 <!-- Fortinet Fundamentos Cybersecurity-->
                 <a href="https://credly.com/badges/d82a2876-db33-400e-bde5-a416443ca755">
                   <img height= 120px; width= 120px; alt="Fortinet Fundamentos Cybersecurity" src="/Badges/FCF-C.png">
