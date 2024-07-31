@@ -19,7 +19,7 @@
 <th>🏅 Certification</th> <th collspan="3"> Badge</th>
 </tr>
 <tr>
-  <th>🏅 Oracle Cloud    </th>
+  <th> Oracle Cloud    </th>
         <td align=center>    
             <!-- Oracle OCI Foundation-->
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499">
@@ -40,7 +40,7 @@
         </td>
   </tr>
   <tr>
-    <th >🏅 Microsoft</th>
+    <th > Microsoft</th>
         <td align=center>    
             <!-- Azure AZ-900-->
             <a href="https://www.credly.com/badges/30fe4e2c-f59e-4a1a-b91e-eec4ddd5cfe7/public_url">
@@ -55,7 +55,7 @@
         </td>
     </tr>
     <tr>
-    <th>🏅 AWS</th>
+    <th>AWS</th>
         <td align=center>    
             <!-- AWS Cloud Practitioner-->
             <a href="https://www.credly.com/badges/a5b5394d-7e41-4b81-94e0-d592a6f9dfdf/public_url">
@@ -64,7 +64,7 @@
         </td>
     </tr>
     <tr>
-    <th>🏅 Fortinet </th>
+    <th>Fortinet </th>
             <td align=center>
                 <!-- Fortinet Fundamentos Cybersecurity-->
                 <a href="https://credly.com/badges/d82a2876-db33-400e-bde5-a416443ca755">
@@ -73,7 +73,7 @@
             </td>
         </tr>
         <tr>
-    <th>🏅  Mikrotik</th>
+    <th>Mikrotik</th>
         <td align=center>    
             <!-- Mikrotik MTCNA-->
             <a href="https://mikrotik.com/certificateSearch">
