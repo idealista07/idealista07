@@ -51,6 +51,8 @@
             </a>
         </td>
     </tr>
+</table>
+<table>
     <th>🏅 Certification AWS</th>
     <tr>
         <td>    
