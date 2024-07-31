@@ -35,8 +35,7 @@
             </a>
         </td>
     </tr>
-    <th colspan="2">🏅 Certifications Microsoft </th>
-    <tr>
+    <tr colspan="2">🏅 Certifications Microsoft
         <td align=center>    
             <!-- Azure AZ-900-->
             <a href="https://www.credly.com/badges/30fe4e2c-f59e-4a1a-b91e-eec4ddd5cfe7/public_url">
