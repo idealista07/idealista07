@@ -15,6 +15,9 @@
 ![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api?username=Idealista07&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Snake animation](https://github.com/idealista07/idealista07/blob/output/github-contribution-grid-snake-dark.svg)
 <table>
+<tr> 
+<th>🏅 Certification</th> <th collspan="3"> Badge</th>
+</tr>
 <tr>
   <th>🏅 Certification Oracle Cloud    </th>
         <td align=center>    
@@ -35,7 +38,8 @@
               <img height= 90px; width= 180px; alt="Oracle Cloud AI Foundations Associate" src="/Badges/OCI-F-AI.png">
             </a>
         </td>
-        </tr>
+  </tr>
+  <tr>
     <th >🏅 Certifications Microsoft</th>
         <td align=center>    
             <!-- Azure AZ-900-->
