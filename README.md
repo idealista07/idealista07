@@ -36,7 +36,7 @@
             </a>
         </td>
     </tr>
-    <th colspan="2">🏅 Certifications Microsoft </th>
+    <th colspan="3">🏅 Certifications Microsoft </th>
     <tr align=center>
         <td>    
             <!-- Azure AZ-900-->
@@ -50,6 +50,7 @@
               <img height= 120px; width= 120px; alt="Fundamentos de Segurança, Conformidade e Identidade" src="/Badges/sc-900.png">
             </a>
         </td>
+        <td></td>
     </tr>
     <th colspan="2">🏅 Certification AWS</th>
     <tr>
