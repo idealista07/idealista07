@@ -48,7 +48,6 @@
               <img height= 120px; width= 120px; alt="Fundamentos de Segurança, Conformidade e Identidade" src="/Badges/sc-900.png">
             </a>
         </td>
-
     </tr>
     <th>🏅 Certification AWS</th>
     <tr>
