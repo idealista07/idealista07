@@ -52,9 +52,9 @@
         </td>
         <td></td>
     </tr>
-    <th colspan="2">🏅 Certification AWS</th>
+    <th>🏅 Certification AWS</th>
     <tr>
-        <td>    
+        <td align=center>    
             <!-- AWS Cloud Practitioner-->
             <a href="https://www.credly.com/badges/a5b5394d-7e41-4b81-94e0-d592a6f9dfdf/public_url">
               <img height= 120px; width= 120px; alt="Praticante de nuvem certificado pela AWS" src="/Badges/aws-p.png">
@@ -63,7 +63,7 @@
     </tr>
     <th>🏅 Certification Fortinet </th>
         <tr>
-            <td>
+            <td align=center>
                 <!-- Fortinet Fundamentos Cybersecurity-->
                 <a href="https://credly.com/badges/d82a2876-db33-400e-bde5-a416443ca755">
                   <img height= 120px; width= 120px; alt="Fortinet Fundamentos Cybersecurity" src="/Badges/FCF-C.png">
@@ -72,7 +72,7 @@
         </tr>
     <th>🏅 Certification Mikrotik</th>
     <tr>
-        <td>    
+        <td align=center>    
             <!-- Mikrotik MTCNA-->
             <a href="https://mikrotik.com/certificateSearch">
               <img height= 120px; width= 201px; alt="mikrotik MTCNA" src="/Badges/MTCNA.png">
