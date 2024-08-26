@@ -50,7 +50,12 @@
               <img height= 120px; width= 120px; alt="Fundamentos de Segurança, Conformidade e Identidade" src="/Badges/sc-900.png">
             </a>
         </th>
-          <th></th>
+          <th>
+            <!-- Azure MS-900-->
+            <a href="https://learn.microsoft.com/pt-br/users/douglasramos-ti/credentials/8a608aef0bc564fc">
+              <img height= 120px; width= 120px; alt="Microsoft 365 Certified: Fundamentals" src="/Badges/ms900.png">
+            </a> 
+          </th>
     </tr>
     <tr>
     <th>AWS</th>
