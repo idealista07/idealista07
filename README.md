@@ -40,13 +40,13 @@
     <th> Microsoft</th>
         <th>    
             <!-- Azure AZ-900-->
-            <a href="https://www.credly.com/badges/30fe4e2c-f59e-4a1a-b91e-eec4ddd5cfe7/public_url">
+            <a href="https://learn.microsoft.com/pt-br/users/douglasramos-ti/credentials/fbca56d8f6ee3edc">
          <img height= 120px; width= 120px; alt="Azure Fundamentals" src="/Badges/AZ-900.png">
             </a>
         </th>
         <th>  
             <!-- Azure SC-900-->
-            <a href="https://www.credly.com/badges/008273c5-a4c3-4de7-afb5-61b7a55c143d/public_url">
+            <a href="https://learn.microsoft.com/pt-br/users/douglasramos-ti/credentials/1014ca08dd029f4e">
               <img height= 120px; width= 120px; alt="Fundamentos de Segurança, Conformidade e Identidade" src="/Badges/sc-900.png">
             </a>
         </th>
