@@ -53,7 +53,7 @@
           <th>
             <!-- Azure MS-900-->
             <a href="https://learn.microsoft.com/pt-br/users/douglasramos-ti/credentials/8a608aef0bc564fc">
-              <img height= 120px; width= 120px; alt="Microsoft 365 Certified: Fundamentals" src="/Badges/ms-900.png">
+              <img height= 120px; width= 120px; alt="Microsoft 365 Certified: Fundamentals" src="/Badges/ms-900-removebg-preview.png">
             </a> 
           </th>
     </tr>
