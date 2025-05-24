@@ -1,3 +1,4 @@
+![Visitas ao Perfil](https://komarev.com/ghpvc/?username=idealista07&label=Perfil+Views&style=flat-square&color=brightgreen)
 <div align="center">
   <a href="https://github.com/idealista07">
     <img src="https://github.com/idealista07/Curriculo/blob/main/img/profile.png" width="180" height="180" alt="Douglas Ramos GitHub Profile Picture" />
@@ -17,16 +18,10 @@
   💻 <a href="https://github.com/idealista07 ">GitHub</a>
 </p>
 
----
-
 ### 📊 Estatísticas do GitHub
 
-| ![Visitas ao Perfil](https://komarev.com/ghpvc/?username=idealista07&label=Perfil+Views&style=flat-square&color=brightgreen ) |
-|---|
-| ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Idealista07&layout=compact&langs_count=8&show_icons=true&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF ) |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Idealista07&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF ) |
-
----
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Idealista07&layout=compact&langs_count=8&show_icons=true&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF ) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Idealista07&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF ) 
 
 ### 🐍 Atividade no GitHub
 
@@ -115,11 +110,20 @@ Possuo certificações reconhecidas em **Oracle Cloud, AWS, Microsoft e MikroTik
             <a href="https://mikrotik.com/certificateSearch">
               <img height= 120px; width= 201px; alt="" src="/Badges/MTCNA.png">
             </a>
-    </th>
-    </tr>
+            <th></th>
+            <th></th>
+    </th></tr>
+    <th>Mikrotik</th><th>
+            <!-- Mikrotik MTCNA-->
+            <a href="https://mikrotik.com/certificateSearch">
+              <img height= 120px; width= 201px; alt="" src="/Badges/MTCNA.png">
+            </a>
+            <th></th>
+            <th></th>
+    </th></tr>
     </table>
     
-<!--## My favorite tools and technologies ⚙️
+## My favorite tools and technologies ⚙️
 > Tools and technologies that I have worked with and am interested in
 <table>
   <tr>
