@@ -42,19 +42,19 @@
         <th>    
             <!-- Azure AZ-900-->
             <a href="https://learn.microsoft.com/pt-br/users/douglasramos-ti/credentials/fbca56d8f6ee3edc">
-         <img height=auto; max-width:100%; alt="Azure Fundamentals" src="/Badges/az-900.png">
+         <img alt="Azure Fundamentals" src="/Badges/az-900.png">
             </a>
         </th>
         <th>  
             <!-- Azure SC-900-->
             <a href="https://learn.microsoft.com/pt-br/users/douglasramos-ti/credentials/1014ca08dd029f4e">
-              <img nax-height=auto; max-width:100%; alt="Fundamentos de Segurança, Conformidade e Identidade" src="/Badges/sc-900.png">
+              <img alt="Fundamentos de Segurança, Conformidade e Identidade" src="/Badges/sc-900.png">
             </a>
         </th>
           <th>
             <!-- Azure MS-900-->
             <a href="https://learn.microsoft.com/pt-br/users/douglasramos-ti/credentials/8a608aef0bc564fc">
-              <img height=auto; width=auto; alt="Microsoft 365 Certified: Fundamentals" src="/Badges/ms-900-removebg-preview.png">
+              <img alt="Microsoft 365 Certified: Fundamentals" src="/Badges/ms-900-removebg-preview.png">
             </a> 
           </th>
     </tr>
@@ -63,7 +63,7 @@
         <th>    
             <!-- AWS Cloud Practitioner-->
             <a href="https://www.credly.com/badges/a5b5394d-7e41-4b81-94e0-d592a6f9dfdf/public_url">
-              <img height=auto; width=auto; alt="Praticante de nuvem certificado pela AWS" src="/Badges/aws-p.png">
+              <img alt="Praticante de nuvem certificado pela AWS" src="/Badges/aws-p.png">
             </a>
         </th>
             <th></th>
@@ -74,7 +74,7 @@
             <th>
                 <!-- Fortinet Fundamentos Cybersecurity-->
                 <a href="https://credly.com/badges/d82a2876-db33-400e-bde5-a416443ca755">
-                  <img height=auto; width=auto; alt="Fortinet Fundamentos Cybersecurity" src="/Badges/FCF-C.png">
+                  <img alt="Fortinet Fundamentos Cybersecurity" src="/Badges/FCF-C.png">
                 </a>
             </th>
             <th></th>
@@ -84,7 +84,7 @@
     <th>Mikrotik</th><th>
             <!-- Mikrotik MTCNA 2211NA7531-->
             <a href="https://mikrotik.com/certificateSearch">
-              <img height=auto; width=auto; alt="" src="/Badges/MTCNA.png">
+              <img alt="" src="/Badges/MTCNA.png">
             </a>
     </th>
     </tr>
