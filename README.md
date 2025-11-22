@@ -82,9 +82,9 @@
         </tr>
         <tr>
     <th>Mikrotik</th><th>
-            <!-- Mikrotik MTCNA-->
-            <a href="https://mikrotik.com/certificateSearch"> #2211NA7531
-              <img height= 120px; width= 201px; alt="" src="/Badges/MTCNA.png">
+            <!-- Mikrotik MTCNA 2211NA7531-->
+            <a href="https://mikrotik.com/certificateSearch">
+              <img height=auto; width=auto; alt="" src="/Badges/MTCNA.png">
             </a>
     </th>
     </tr>
