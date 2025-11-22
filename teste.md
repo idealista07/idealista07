@@ -4,7 +4,7 @@
         <th>    
             <!-- Oracle OCI Foundation-->
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499">
-              <img alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png">
+              <img width=90%; alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png">
             </a>
         </th>
         <th>
@@ -25,13 +25,13 @@
         <th>    
             <!-- Azure AZ-900-->
             <a href="https://learn.microsoft.com/pt-br/users/douglasramos-ti/credentials/fbca56d8f6ee3edc">
-         <img width=60%; alt="Azure Fundamentals" src="/Badges/az-900.png">
+         <img width=50%; alt="Azure Fundamentals" src="/Badges/az-900.png">
             </a>
         </th>
         <th>  
             <!-- Azure SC-900-->
             <a href="https://learn.microsoft.com/pt-br/users/douglasramos-ti/credentials/1014ca08dd029f4e">
-              <img width=60%; alt="Fundamentos de Segurança, Conformidade e Identidade" src="/Badges/sc-900.png">
+              <img width=60%; alt="Fundamentos de Segurança, Conformidade e Identidade" src="/Badges/SC900.png">
             </a>
         </th>
           <th>
@@ -45,11 +45,21 @@
     <th>AWS</th>
         <th> <!-- AWS Cloud Practitioner-->
             <a href="https://www.credly.com/badges/a5b5394d-7e41-4b81-94e0-d592a6f9dfdf/public_url">
-              <img width=60%; alt="Praticante de nuvem certificado pela AWS" src="/Badges/aws-p.png">
+              <img width=50%; alt="Praticante de nuvem certificado pela AWS" src="/Badges/aws-p.png">
             </a>
         </th>
         <th width:auto; ></th>
         <th width:auto; ></th> 
+    </tr>
+    <tr>
+    <th>FinOps</th>
+        <th> <!-- FinOps Certified Practitioner-->
+            <a href="https://www.credly.com/badges/a5b5394d-7e41-4b81-94e0-d592a6f9dfdf/public_url">
+              <img alt="FinOps Certified Practitioner" src="/Badges/FINOPS-P">
+            </a>
+        </th>
+        <th></th>
+        <th></th> 
     </tr>
 </table>
 <table>
@@ -57,22 +67,24 @@
     <th>Fortinet</th>
             <th><!-- Fortinet Certified Fundamentals Cybersecurity-->
                 <a href="https://credly.com/badges/d82a2876-db33-400e-bde5-a416443ca755">
-                  <img alt="Fortinet Certified Fundamentals Cybersecurity" src="/Badges/FCF-C.png">
+                  <img width=50%; alt="Fortinet Certified Fundamentals Cybersecurity" src="/Badges/FCF-C.png">
                 </a>
             </th>
             <th><!-- Fortinet Certified Associate Cybersecurity-->
                 <a href="https://www.credly.com/earner/earned/badge/71f0aad0-5577-4dd0-9a9b-a46c929cd4ba">
-                  <img alt="Fortinet Certified Associate Cybersecurity" src="/Badges/FCA-C.png">
+                  <img width=50%; alt="Fortinet Certified Associate Cybersecurity" src="/Badges/FCA-C.png">
                 </a>
             </th>
             <th></th>
         </tr>
         <tr>
-    <th>Mikrotik</th><th>
-            <!-- Mikrotik MTCNA 2211NA7531-->
+    <th>Mikrotik</th>
+            <th><!-- Mikrotik MTCNA 2211NA7531-->
             <a href="https://mikrotik.com/certificateSearch">
               <img alt="" src="/Badges/MTCNA.png">
             </a>
-    </th><th></th><th></th> 
+            </th>
+            <th></th>
+            <th></th>
     </tr>
-    </table>-->
+</table>
