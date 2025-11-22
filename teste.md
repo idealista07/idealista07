@@ -57,12 +57,12 @@
     <th>Fortinet</th>
             <th><!-- Fortinet Certified Fundamentals Cybersecurity-->
                 <a href="https://credly.com/badges/d82a2876-db33-400e-bde5-a416443ca755">
-                  <img width=30%; height=30%; alt="Fortinet Certified Fundamentals Cybersecurity" src="/Badges/FCF-C.png">
+                  <img alt="Fortinet Certified Fundamentals Cybersecurity" src="/Badges/FCF-C.png">
                 </a>
             </th>
             <th><!-- Fortinet Certified Associate Cybersecurity-->
-                <a href="https://credly.com/badges/d82a2876-db33-400e-bde5-a416443ca755">
-                  <img width=30%; height=30%; alt="Fortinet Certified Associate Cybersecurity" src="/Badges/FCA-C.png">
+                <a href="https://www.credly.com/earner/earned/badge/71f0aad0-5577-4dd0-9a9b-a46c929cd4ba">
+                  <img alt="Fortinet Certified Associate Cybersecurity" src="/Badges/FCA-C.png">
                 </a>
             </th>
             <th></th>
