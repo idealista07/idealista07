@@ -15,8 +15,8 @@
 -->
 ![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api?username=Idealista07&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Snake animation](https://github.com/idealista07/idealista07/blob/output/github-contribution-grid-snake-dark.svg)
-<table>
-<tr>
+<table style="width:100%; text-align:center;">
+    <tr>
   <th> Oracle Cloud </th>
         <th>    
             <!-- Oracle OCI Foundation-->
