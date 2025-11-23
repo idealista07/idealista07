@@ -1,6 +1,6 @@
 <table>
-    <tr>
-    <th> Oracle Cloud </th>
+     <tr>
+   <th><sub>Oracle Cloud</sub></th>
 	<th><!-- Oracle OCI Foundation-->
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499">
               <img width=120px; height=60px; alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png">
@@ -18,7 +18,7 @@
         </th>
   </tr>
   <tr>
-    <th> Microsoft</th>
+    <th><sub>Microsoft</sub></th>
         <th><!-- Azure AZ-900-->
             <a href="https://learn.microsoft.com/pt-br/users/idealista07/credentials/fbca56d8f6ee3edc">
          	<img width=60px; height=60px; alt="Azure Fundamentals" src="/Badges/az-900.png">
@@ -36,7 +36,7 @@
         </th>
    </tr>
         <tr>
-    	<th>Fortinet</th>
+    	<th><sub>Fortinet</sub></th>
             <th><!-- Fortinet Certified Fundamentals Cybersecurity-->
                 <a href="https://www.credly.com/earner/earned/badge/71f0aad0-5577-4dd0-9a9b-a46c929cd4ba">
                 	<img width=60px; height=60px; alt="Fortinet Certified Fundamentals Cybersecurity" src="/Badges/FCF-C.png">
@@ -50,7 +50,7 @@
             <th></th>
         </tr>
     <tr>
-    <th>AWS</th>
+    <th><sub>AWS</sub></th>
         <th> <!-- AWS Cloud Practitioner-->
             <a href="https://www.credly.com/earner/earned/badge/a5b5394d-7e41-4b81-94e0-d592a6f9dfdf">
               <img width=60px; height=60px; alt="Praticante de nuvem certificado pela AWS" src="/Badges/aws-p.png">
@@ -60,7 +60,7 @@
         <th></th> 
     </tr>
     <tr>
-    <th>FinOps</th>
+    <th><sub>FinOps</sub></th>
         <th> <!-- FinOps Certified Practitioner-->
             <a href="https://www.credly.com/earner/earned/badge/b035f7ae-cfc4-4566-9781-4aa2a185f144">
               <img width=60px; height=60px; alt="FinOps Certified Practitioner" src="/Badges/FINOPS-P.png">
@@ -70,7 +70,7 @@
         <th></th> 
     </tr>
         <tr>
-    <th>Mikrotik</th>
+    <th><sub>Mikrotik</sub></th>
             <th><!-- Mikrotik MTCNA 2211NA7531-->
             <a href="https://mikrotik.com/certificateSearch">
               <img width=80px; height=45px; alt="" src="/Badges/MTCNA.png">
@@ -80,7 +80,7 @@
             <th></th>
     </tr>
         <tr>
-    <th>Xfusion Server</th>
+    <th><sub>Xfusion Server</sub></th>
             <th><!-- Mikrotik MTCNA 2211NA7531-->
             <a href="https://mikrotik.com/certificateSearch">
               <img width=60px; height=60px; alt="" src="/Badges/FCIA.png">
