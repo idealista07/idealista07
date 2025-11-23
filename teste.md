@@ -20,17 +20,17 @@
   <tr>
     <th> Microsoft</th>
         <th><!-- Azure AZ-900-->
-            <a href="https://learn.microsoft.com/pt-br/users/douglasramos-ti/credentials/fbca56d8f6ee3edc">
+            <a href="https://learn.microsoft.com/pt-br/users/idealista07/credentials/fbca56d8f6ee3edc">
          	<img width=120px; height=120px; alt="Azure Fundamentals" src="/Badges/az-900.png">
             </a>
         </th>
         <th><!-- Azure SC-900-->
-            <a href="https://learn.microsoft.com/pt-br/users/douglasramos-ti/credentials/1014ca08dd029f4e">
+            <a href="https://learn.microsoft.com/pt-br/users/idealista07/credentials/1014ca08dd029f4e">
               <img width=120px; height=120px; alt="Fundamentos de Segurança, Conformidade e Identidade" src="/Badges/SC900.png">
             </a>
         </th>
           <th><!-- Azure MS-900-->
-            <a href="https://learn.microsoft.com/pt-br/users/douglasramos-ti/credentials/8a608aef0bc564fc">
+            <a href="https://learn.microsoft.com/pt-br/users/idealista07/credentials/8a608aef0bc564fc">
               <img width=120px; height=120px; alt="Microsoft 365 Certified: Fundamentals" src="/Badges/ms-900-removebg-preview.png">
             </a> 
         </th>
@@ -38,12 +38,12 @@
         <tr>
     	<th>Fortinet</th>
             <th><!-- Fortinet Certified Fundamentals Cybersecurity-->
-                <a href="https://credly.com/badges/d82a2876-db33-400e-bde5-a416443ca755">
+                <a href="https://www.credly.com/earner/earned/badge/71f0aad0-5577-4dd0-9a9b-a46c929cd4ba">
                 	<img width=110px; height=110px; alt="Fortinet Certified Fundamentals Cybersecurity" src="/Badges/FCF-C.png">
                 </a>
             </th>
             <th><!-- Fortinet Certified Associate Cybersecurity-->
-                <a href="https://www.credly.com/earner/earned/badge/71f0aad0-5577-4dd0-9a9b-a46c929cd4ba">
+                <a href="(https://www.credly.com/earner/earned/badge/7c2f2ac6-a053-4f4b-81af-96e554e0b977">
                 	<img width=110px; height=110px; alt="Fortinet Certified Associate Cybersecurity" src="/Badges/FCA-C.png">
                 </a>
             </th>
@@ -62,7 +62,7 @@
     <tr>
     <th>FinOps</th>
         <th> <!-- FinOps Certified Practitioner-->
-            <a href="https://www.credly.com/badges/a5b5394d-7e41-4b81-94e0-d592a6f9dfdf/public_url">
+            <a href="https://www.credly.com/earner/earned/badge/b035f7ae-cfc4-4566-9781-4aa2a185f144">
               <img width=120px; height=120px; alt="FinOps Certified Practitioner" src="/Badges/FINOPS-P.png">
             </a>
         </th>
