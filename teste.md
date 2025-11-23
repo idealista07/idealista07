@@ -1,4 +1,4 @@
-<table>
+<table width=100%>
      <tr>
    <th><sub>Oracle Cloud</sub></th>
 	<th><!-- Oracle OCI Foundation-->
