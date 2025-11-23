@@ -1,9 +1,13 @@
+|**Oracle Cloud** |[<img width=120px; height=60px; alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499) |[<img width=120px; height=60px; alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499) |[<img width=120px; height=60px; alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499)|
+|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
+| | | | |
+
+
 <table width=100%>
      <tr>
    <th><sub>Oracle Cloud</sub></th>
 	<th><!-- Oracle OCI Foundation-->
-            <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499">
-              <img width=120px; height=60px; alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png">
+            <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499"><img width=120px; height=60px; alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png">
             </a>
         </th>
         <th><!-- Oracle OCI Data Management-->
