@@ -1,19 +1,18 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=idealista07&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 <h3>### Hi, I'm Douglas Ramos 👋</h3>
 <div align="justify">
-<a href = "https://api.whatsapp.com/send/?phone=48996635252&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href = "https://t.me/DSRamos_007"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><a>
-<a href="https://www.linkedin.com/in/douglas-ramos-ti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:ramos.ti@live.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-
+	<a href = "https://api.whatsapp.com/send/?phone=48996635252&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+	<a href = "https://t.me/DSRamos_007"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><a>
+	<a href="https://www.linkedin.com/in/idealista07/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkerd&logoColor=white" target="_blank"></a> 
+	<a href = "mailto:ramos.ti@live.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+	<a href = "https://homepage.noc-hb.online/"><img src="https://img.shields.io/badge/HomeLab-orange?style=for-the-badge&logo=linuxcontainers&logoColor=white"</a>
 </div>
-
 <div>
     
-<!--Quadro com Contador, Quadro de linguagens
-![Idealista07 Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Idealista07&layout=donut&langs_count=8&show_icons=true&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
--->
-![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api?username=Idealista07&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<!-- Top Languages (donut) -->
+![Idealista07](https://github-readme-stats.vercel.app/api/top-langs/?username=idealista07&layout=donut&langs_count=20&show_icons=true&bg_color=000000&border_color=000&title_color=30A3DC&text_color=FFFFFF&cache_seconds=21600&include_all_commits=true&count_private=true)
+![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api?username=idealista07&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF&include_all_commits=true&count_private=true)
+
 ![Snake animation](https://github.com/idealista07/idealista07/blob/output/github-contribution-grid-snake-dark.svg)
 <table width=100%>
      <tr>
