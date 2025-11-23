@@ -37,7 +37,7 @@
     <th width=25%;><sub>Microsoft</sub></th>
         <th width=25%;><!-- Azure AZ-900-->
             <a href="https://learn.microsoft.com/pt-br/users/idealista07/credentials/fbca56d8f6ee3edc">
-         	<img width=50%; alt="Azure Fundamentals" src="/Badges/az-900.png">
+         	<img width=50%; alt="Azure Fundamentals" src="/Badges/AZ900.png">
             </a>
         </th>
         <th width=25%;><!-- Azure SC-900-->
@@ -69,7 +69,7 @@
     <th width=25%;><sub>AWS</sub></th>
         <th> <!-- AWS Cloud Practitioner-->
             <a href="https://www.credly.com/earner/earned/badge/a5b5394d-7e41-4b81-94e0-d592a6f9dfdf">
-              <img width=50%; alt="Praticante de nuvem certificado pela AWS" src="/Badges/aws-p.png">
+              <img width=50%; alt="Praticante de nuvem certificado pela AWS" src="/Badges/AWS-P.png">
             </a>
         </th>
         <th width=25%;></th>
@@ -87,8 +87,8 @@
     </tr>
         <tr>
     <th width=25%;><sub>Mikrotik</sub></th>
-            <th><!-- Mikrotik MTCNA 2211NA7531-->
-            <a href="https://mikrotik.com/certificateSearch">
+            <th><!-- Mikrotik MTCNA COD=2211NA7531 -->
+            <a href="https://mikrotik.com/training/certificates/b247531cbb261197d133">
               <img width=50%; alt="" src="/Badges/MTCNA.png">
             </a>
             </th>
@@ -97,8 +97,8 @@
     </tr>
         <tr>
     <th width=25%;><sub>Xfusion Server</sub></th>
-            <th><!-- Mikrotik MTCNA 2211NA7531-->
-            <a href="https://mikrotik.com/certificateSearch">
+            <th><!-- Xfusion Server COD=XFU01FCIA011191 -->
+            <a href="https://xlearning.xfusion.com/partner/#/certificateQuery">
               <img width=50%; alt="" src="/Badges/FCIA.png">
             </a>
             </th>
