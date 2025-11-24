@@ -79,7 +79,7 @@
     <th width=25%;><sub>FinOps</sub></th>
         <th> <!-- FinOps Certified Practitioner-->
             <a href="https://www.credly.com/earner/earned/badge/b035f7ae-cfc4-4566-9781-4aa2a185f144">
-              <img width=50%; alt="FinOps Certified Practitioner" src="/Badges/FINOPS-P.png">
+              <img alt="FinOps Certified Practitioner" width=50%; src="/Badges/FINOPS-P.png">
             </a>
         </th>
         <th width=25%;></th>
