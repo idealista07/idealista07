@@ -99,7 +99,7 @@
     <th width=25%;><sub>Xfusion Server</sub></th>
             <th><!-- Xfusion Server COD=XFU01FCIA011191 -->
             <a href="https://xlearning.xfusion.com/partner/#/certificateQuery">
-              <img width=50%; alt="" src="/Badges/FCIA.png">
+              <img  alt="" src="/Badges/FCIA.png">
             </a>
             </th>
             <th width=25%;></th>
