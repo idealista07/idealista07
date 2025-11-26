@@ -9,10 +9,11 @@
 </div>
 <div>
     
-<!-- Top Languages (donut) -->
-![Idealista07](https://github-readme-stats.vercel.app/api/top-langs/?username=idealista07&layout=donut&langs_count=20&show_icons=true&bg_color=000000&border_color=000&title_color=30A3DC&text_color=FFFFFF&cache_seconds=21600&include_all_commits=true&count_private=true)
-![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api?username=idealista07&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF&include_all_commits=true&count_private=true)
+<!-- Top Languages (donut)
+![Idealista07](https://github-readme-stats.vercel.app/api/top-langs/?username=idealista07&layout=donut&langs_count=7&bg_color=000000&border_color=000000&title_color=30A3DC&text_color=FFFFFF)
 
+![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api?username=idealista07&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF&include_all_commits=true&count_private=true)
+ -->
 ![Snake animation](https://github.com/idealista07/idealista07/blob/output/github-contribution-grid-snake-dark.svg)
 <table width=100%>
      <tr>
