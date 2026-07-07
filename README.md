@@ -1,24 +1,25 @@
 <!-- Top Languages (donut)
 ![Idealista07](https://github-readme-stats.vercel.app/api/top-langs/?username=idealista07&layout=donut&langs_count=7&bg_color=000000&border_color=000000&title_color=30A3DC&text_color=FFFFFF)
 ![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api?username=idealista07&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF&include_all_commits=true&count_private=true)
+
+📍 Palhoça, SC | 📱 +55 (48) 99663-5252 | ✉️ ramos.ti@live.com
+🔗 [LinkedIn](https://linkedin.com/in/idealista07) | 💻 [GitHub](https://github.com/idealista07)
+
 -->
 <img align="right" src="https://komarev.com/ghpvc/?username=idealista07&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+
+# Douglas de Santana Ramos
+
+
+### Especialista em Infraestrutura de TI, Redes e Cloud
 <div align="justify">
+	<a href = ""><img alt="Static Badge" src="https://img.shields.io/badge/Palhoça-SC-purple?style=for-the-badge"></a>
 	<a href = "https://api.whatsapp.com/send/?phone=48996635252&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 	<a href = "https://t.me/Idealista07"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><a>
 	<a href="https://www.linkedin.com/in/idealista07/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkerd&logoColor=white" target="_blank"></a> 
 	<a href = "mailto:ramos.ti@live.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 	<a href = "https://homepage.noc-hb.online/"><img src="https://img.shields.io/badge/HomeLab-orange?style=for-the-badge&logo=linuxcontainers&logoColor=white"</a>
 </div>
-# Douglas de Santana Ramos
-
-<div>
-	
-### Especialista em Infraestrutura de TI, Redes e Cloud
-📍 Palhoça, SC | 📱 +55 (48) 99663-5252 | ✉️ ramos.ti@live.com
-🔗 [LinkedIn](https://linkedin.com/in/idealista07) | 💻 [GitHub](https://github.com/idealista07)
-
----
 
 ## 📑 Sobre Mim & Filosofia de Trabalho
 Com mais de 13 anos de experiência na sustentação de ambientes de missão crítica, atuo como facilitador estratégico entre a tecnologia e os objetivos de negócio das organizações. Minha especialidade é arquitetar, migrar e proteger infraestruturas complexas, garantindo alta disponibilidade, redução real de custos operacionais (FinOps) e blindagem contra incidentes. 
