@@ -1,17 +1,66 @@
+<!-- Top Languages (donut)
+![Idealista07](https://github-readme-stats.vercel.app/api/top-langs/?username=idealista07&layout=donut&langs_count=7&bg_color=000000&border_color=000000&title_color=30A3DC&text_color=FFFFFF)
+![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api?username=idealista07&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF&include_all_commits=true&count_private=true)
+-->
 <img align="right" src="https://komarev.com/ghpvc/?username=idealista07&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-<h3>### Hi, I'm Douglas Ramos 👋</h3>
 <div align="justify">
 	<a href = "https://api.whatsapp.com/send/?phone=48996635252&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-	<a href = "https://t.me/DSRamos_007"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><a>
+	<a href = "https://t.me/Idealista07"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><a>
 	<a href="https://www.linkedin.com/in/idealista07/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkerd&logoColor=white" target="_blank"></a> 
 	<a href = "mailto:ramos.ti@live.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 	<a href = "https://homepage.noc-hb.online/"><img src="https://img.shields.io/badge/HomeLab-orange?style=for-the-badge&logo=linuxcontainers&logoColor=white"</a>
 </div>
+# Douglas de Santana Ramos
+
 <div>
-    
-<!-- Top Languages (donut)-->
-![Idealista07](https://github-readme-stats.vercel.app/api/top-langs/?username=idealista07&layout=donut&langs_count=7&bg_color=000000&border_color=000000&title_color=30A3DC&text_color=FFFFFF)
-![Idealista07 GitHub stats](https://github-readme-stats.vercel.app/api?username=idealista07&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF&include_all_commits=true&count_private=true)
+	
+### Especialista em Infraestrutura de TI, Redes e Cloud
+📍 Palhoça, SC | 📱 +55 (48) 99663-5252 | ✉️ ramos.ti@live.com
+🔗 [LinkedIn](https://linkedin.com/in/idealista07) | 💻 [GitHub](https://github.com/idealista07)
+
+---
+
+## 📑 Sobre Mim & Filosofia de Trabalho
+Com mais de 13 anos de experiência na sustentação de ambientes de missão crítica, atuo como facilitador estratégico entre a tecnologia e os objetivos de negócio das organizações. Minha especialidade é arquitetar, migrar e proteger infraestruturas complexas, garantindo alta disponibilidade, redução real de custos operacionais (FinOps) e blindagem contra incidentes. 
+
+Tenho histórico comprovado no atendimento de suporte avançado (Níveis 1 a 3) para carteiras que somam mais de 80 clientes corporativos nos setores industrial, de saúde, jurídico e público.
+
+---
+
+## 🛠️ Catálogo de Serviços e Soluções
+
+| Pilar de Serviço | Escopo Técnico de Entrega | Benefício e Valor de Negócio |
+| :--- | :--- | :--- |
+| **Virtualização Corporativa** | Implantação e gerenciamento de clusters com **Proxmox VE, Hyper-V e VMware**. | Consolidação de servidores para redução de investimentos em hardware (CapEx) e migrações eficientes com impacto zero na operação. |
+| **Redes e Segurança Perimetral** | Configuração avançada de ativos **MikroTik (RouterOS) e Ubiquiti UniFi**, segmentação de VLANs e Firewalls estruturados. | Proteção contra acessos não autorizados, isolamento de tráfego crítico e interconexão de filiais de forma segura via criptografia VPN. |
+| **Nuvem Híbrida e FinOps** | Provisionamento e governança arquitetural em **Microsoft Azure, Oracle Cloud (OCI), AWS e GCP**. | Desenho de ambientes redundantes e auditoria contínua de custos de Cloud para eliminar o desperdício de faturamento internacional. |
+| **Continuidade (Backup/DR)** | Políticas resilientes de Backup e Disaster Recovery utilizando ferramentas como **Veeam Backup & Replication e Acronis** | Implementação da estratégia de backup 3-2-1, mitigação absoluta contra ataques de Ransomware e tempos mínimos de recuperação (RTO/RPO). |
+| **Monitoramento e NOC** | Centralização de telemetria em tempo real com **Zabbix, Uptime Kuma e The Dude**. | Identificação proativa de gargalos de rede ou hardware, permitindo a correção de incidentes antes que afetem o usuário final (MTTR reduzido). |
+| **Automação e IA** | Criação de scripts avançados em **PowerShell, Bash e Python** integrados a ecossistemas locais de IA. | Eliminação de falhas humanas em tarefas rotineiras e aceleração de processos através de automações inteligentes orientadas a dados. |
+
+---
+
+## 🔬 Laboratório Híbrido (Ambiente de Homologação / PoC)
+Diferente de abordagens puramente teóricas, todos os designs arquiteturais e soluções propostas aos meus clientes e parceiros são previamente testados e validados sob estresse em meu ambiente privado de Prova de Conceito (PoC):
+
+🌐 **Acesse a Homepage do Lab:** [homepage.noc-hb.online](https://homepage.noc-hb.online/)
+
+* **Arquitetura Conectada:** Ambiente híbrido ativo que integra hipervisores locais (**Proxmox VE**) com instâncias escaláveis na nuvem corporativa da **Oracle Cloud Infrastructure (OCI)**.
+* **Esteira de Inovação em IA:** Sandbox configurado e operacional para deploy, testes e automações utilizando Large Language Models (LLMs) e agentes autônomos de IA como **Hermes, OpenClaw, Cursor e Claude**.
+* **Validação de Monitoramento:** Central de monitoramento distribuída homologando coletas complexas de dados de ativos e servidores de forma ininterrupta.
+
+---
+
+## 📈 Modelos de Atuação e Parcerias
+
+1. **Consultoria por Escopo Fechado (Projetos de TI):** Perfeito para migrações de servidores, auditorias completas de custos em Nuvem (FinOps), reestruturação de firewalls MikroTik ou implementações do zero de Zabbix/Veeam.
+2. **Sustentação Mensal de Infraestrutura (Contrato PJ):** Atuação como Engenheiro/Especialista de Nível 3 dedicado a monitorar, gerenciar e evoluir seu ambiente corporativo de forma preventiva.
+3. **Mentoria e Capacitação Técnica:** Treinamentos operacionais práticos para times internos de TI focados em administração Linux, boas práticas de virtualização e redes seguras.
+
+---
+
+💡 *Precisa de estabilidade, segurança e eficiência na infraestrutura da sua empresa? Vamos agendar uma reunião técnica para desenhar a melhor arquitetura para o seu negócio.*
+
 
 ![Snake animation](https://github.com/idealista07/idealista07/blob/output/github-contribution-grid-snake-dark.svg)
 <table width=100%>
