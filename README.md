@@ -10,10 +10,9 @@
 
 # Douglas de Santana Ramos
 
-
 ### Especialista em Infraestrutura de TI, Redes e Cloud	<img alt="Static Badge" src="https://img.shields.io/badge/Palhoça-SC-red?logo=homepage">
 <div align="justify">
-	<a href = "https://api.whatsapp.com/send/?phone=48996635252&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+	<a href = "https://api.whatsapp.com/send/?phone=5548996635252&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 	<a href = "https://t.me/Idealista07"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><a>
 	<a href="https://www.linkedin.com/in/idealista07/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkerd&logoColor=white" target="_blank"></a> 
 	<a href = "mailto:ramos.ti@live.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=protonmail&logoColor=white"></a>
@@ -21,7 +20,7 @@
 </div>
 
 ## 📑 Sobre Mim & Filosofia de Trabalho
-Com mais de 13 anos de experiência na sustentação de ambientes de missão crítica, atuo como facilitador estratégico entre a tecnologia e os objetivos de negócio das organizações. Minha especialidade é arquitetar, migrar e proteger infraestruturas complexas, garantindo alta disponibilidade, redução real de custos operacionais (FinOps) e blindagem contra incidentes. 
+Profissional especialista em Infraestrutura de TI, Redes e Cloud com sólida trajetória na sustentação de ambientes híbridos de missão crítica, redes complexas e migração Multi-Cloud. Atuo como facilitador estratégico entre a tecnologia e os objetivos de negócio das organizações. Minha especialidade é architectar, migrar e proteger infraestruturas complexas, garantindo alta disponibilidade, redução real de custos operacionais (FinOps) e blindagem contra incidentes. 
 
 Tenho histórico comprovado no atendimento de suporte avançado (Níveis 1 a 3) para carteiras que somam mais de 80 clientes corporativos nos setores industrial, de saúde, jurídico e público.
 
@@ -32,21 +31,21 @@ Tenho histórico comprovado no atendimento de suporte avançado (Níveis 1 a 3) 
 | Pilar de Serviço | Escopo Técnico de Entrega | Benefício e Valor de Negócio |
 | :--- | :--- | :--- |
 | **Virtualização Corporativa** | Implantação e gerenciamento de clusters com **Proxmox VE, Hyper-V e VMware**. | Consolidação de servidores para redução de investimentos em hardware (CapEx) e migrações eficientes com impacto zero na operação. |
-| **Redes e Segurança Perimetral** | Configuração avançada de ativos **MikroTik (RouterOS) e Ubiquiti UniFi**, segmentação de VLANs e Firewalls estruturados. | Proteção contra acessos não autorizados, isolamento de tráfego crítico e interconexão de filiais de forma segura via criptografia VPN. |
-| **Nuvem Híbrida e FinOps** | Provisionamento e governança arquitetural em **Microsoft Azure, Oracle Cloud (OCI), AWS e GCP**. | Desenho de ambientes redundantes e auditoria contínua de custos de Cloud para eliminar o desperdício de faturamento internacional. |
-| **Continuidade (Backup/DR)** | Políticas resilientes de Backup e Disaster Recovery utilizando ferramentas como **Veeam Backup & Replication e Acronis** | Implementação da estratégia de backup 3-2-1, mitigação absoluta contra ataques de Ransomware e tempos mínimos de recuperação (RTO/RPO). |
+| **Redes e Segurança Perimetral** | Configuração avançada de ativos **MikroTik (RouterOS) e Ubiquiti UniFi**, roteamento dinâmico (**OSPF**), segmentação de VLANs e Firewalls estruturados. | Proteção contra acessos não autorizados, isolamento de tráfego crítico e interconexão de filiais de forma segura via criptografia VPN. |
+| **Nuvem Híbrida e FinOps** | Provisionamento, administração do ecossistema **Microsoft 365** e governança arquitetural Multi-Cloud em **Microsoft Azure, Oracle Cloud (OCI) e AWS**. | Desenho de ambientes redundantes, integrações seguras e auditoria contínua de custos de Cloud para eliminar o desperdício de faturamento. |
+| **Continuidade (Backup/DR)** | Políticas resilientes de Backup e Disaster Recovery utilizando ferramentas como **Veeam Backup & Replication e Acronis**. | Implementação da estratégia de backup 3-2-1, mitigação absoluta contra ataques de Ransomware e tempos mínimos de recuperação (RTO/RPO). |
 | **Monitoramento e NOC** | Centralização de telemetria em tempo real com **Zabbix, Uptime Kuma e The Dude**. | Identificação proativa de gargalos de rede ou hardware, permitindo a correção de incidentes antes que afetem o usuário final (MTTR reduzido). |
 | **Automação e IA** | Criação de scripts avançados em **PowerShell, Bash e Python** integrados a ecossistemas locais de IA. | Eliminação de falhas humanas em tarefas rotineiras e aceleração de processos através de automações inteligentes orientadas a dados. |
 
 ---
 
 ## 🔬 Laboratório Híbrido (Ambiente de Homologação / PoC)
-Diferente de abordagens puramente teóricas, todos os designs arquiteturais e soluções propostas aos meus clientes e parceiros são previamente testados e validados sob estresse em meu ambiente privado de Prova de Conceito (PoC):
+Diferente de abordagens puramente teóricas, todos os designs arquiteturais e soluções propostos aos meus clientes e parceiros são previamente testados e validados sob estresse em meu ambiente privado de Prova de Conceito (PoC):
 
 🌐 **Acesse a Homepage do Lab:** [homepage.noc-hb.online](https://homepage.noc-hb.online/)
 
 * **Arquitetura Conectada:** Ambiente híbrido ativo que integra hipervisores locais (**Proxmox VE**) com instâncias escaláveis na nuvem corporativa da **Oracle Cloud Infrastructure (OCI)**.
-* **Esteira de Inovação em IA:** Sandbox configurado e operacional para deploy, testes e automações utilizando Large Language Models (LLMs) e agentes autônomos de IA como **Hermes, OpenClaw, Cursor e Claude**.
+* **Esteira de Inovação em IA:** Sandbox configurado e operacional para deploy, testes e automações utilizando Large Language Models (LLMs) locais e agentes autônomos de IA como **Hermes, OpenClaw, Cursor e Claude Code**.
 * **Validação de Monitoramento:** Central de monitoramento distribuída homologando coletas complexas de dados de ativos e servidores de forma ininterrupta.
 
 ---
@@ -64,7 +63,7 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
 
 ![Snake animation](https://github.com/idealista07/idealista07/blob/output/github-contribution-grid-snake-dark.svg)
 <table width=100%>
-     <tr>
+      <tr>
    <th width=25%><sub>Oracle Cloud</sub></th>
 	<th width=25%><!-- Oracle OCI Foundation-->
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499">
@@ -86,7 +85,7 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
     <th width=25%;><sub>Microsoft</sub></th>
         <th width=25%;><!-- Azure AZ-900-->
             <a href="https://learn.microsoft.com/pt-br/users/idealista07/credentials/fbca56d8f6ee3edc">
-         	<img width=50%; alt="Azure Fundamentals" src="/Badges/AZ900.png">
+          	<img width=50%; alt="Azure Fundamentals" src="/Badges/AZ900.png">
             </a>
         </th>
         <th width=25%;><!-- Azure SC-900-->
@@ -108,13 +107,13 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
                 </a>
             </th>
             <th width=25%;><!-- Fortinet Certified Associate Cybersecurity-->
-                <a href="(https://www.credly.com/earner/earned/badge/7c2f2ac6-a053-4f4b-81af-96e554e0b977">
+                <a href="https://www.credly.com/earner/earned/badge/7c2f2ac6-a053-4f4b-81af-96e554e0b977">
                 	<img width=40%; alt="Fortinet Certified Associate Cybersecurity" src="/Badges/FCA-C.png">
                 </a>
             </th>
             <th width=25%;></th>
         </tr>
-    <tr>
+  <tr>
     <th width=25%;><sub>AWS</sub></th>
         <th> <!-- AWS Cloud Practitioner-->
             <a href="https://www.credly.com/earner/earned/badge/a5b5394d-7e41-4b81-94e0-d592a6f9dfdf">
@@ -123,8 +122,8 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
         </th>
         <th width=25%;></th>
         <th width=25%;></th> 
-    </tr>
-    <tr>
+  </tr>
+  <tr>
     <th width=25%;><sub>FinOps</sub></th>
         <th> <!-- FinOps Certified Practitioner-->
             <a href="https://www.credly.com/earner/earned/badge/b035f7ae-cfc4-4566-9781-4aa2a185f144">
@@ -133,7 +132,7 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
         </th>
         <th width=25%;></th>
         <th width=25%;></th> 
-    </tr>
+  </tr>
         <tr>
     <th width=25%;><sub>Mikrotik</sub></th>
             <th><!-- Mikrotik MTCNA COD=2211NA7531 -->
@@ -143,7 +142,7 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
             </th>
             <th width=25%;></th>
             <th width=25%;></th>
-    </tr>
+  </tr>
         <tr>
     <th width=25%;><sub>Xfusion Server</sub></th>
             <th><!-- Xfusion Server COD=XFU01FCIA011191 -->
@@ -153,7 +152,7 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
             </th>
             <th width=25%;></th>
             <th width=25%;></th>
-    </tr>
+  </tr>
 </table>
     
 <!--## My favorite tools and technologies ⚙️
@@ -170,6 +169,7 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
     </td>
   </tr>
 </table>
+
 Escopo padrão **idealista07/idealista07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
