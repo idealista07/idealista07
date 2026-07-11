@@ -130,7 +130,12 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
               <img alt="FinOps Certified Practitioner" width=50%; src="/Badges/FINOPS-P.png">
             </a>
         </th>
-        <th width=25%;></th>
+        <th width=25%;><sub>FinOps FOCUS</sub></th>
+        <th> <!-- FinOps Certified FOCUS Analyst-->
+            <a href="https://www.credly.com/earner/earned/badge/c067b683-11ab-4c4b-ad2f-aa32b485c400">
+              <img alt="FinOps Certified Practitioner" width=50%; src="/Badges/finops_focus.png">
+            </a>
+        </th>	
         <th width=25%;></th> 
   </tr>
         <tr>
