@@ -12,9 +12,9 @@
 
 ### Especialista em Infraestrutura de TI, Redes e Cloud	<img alt="Static Badge" src="https://img.shields.io/badge/Palhoça-SC-red?logo=homepage">
 <div align="justify">
-	<a href = "https://api.whatsapp.com/send/?phone=5548996635252&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+	<a href = "https://api.whatsapp.com/send/?phone=5548996635252&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 	<a href = "https://t.me/Idealista07"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><a>
-	<a href="https://www.linkedin.com/in/idealista07/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkerd&logoColor=white" target="_blank"></a> 
+	<a href="https://www.linkedin.com/in/idealista07/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkerd&logoColor=white"></a> 
 	<a href = "mailto:ramos.ti@live.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 	<a href = "https://homepage.noc-hb.online/"><img src="https://img.shields.io/badge/HomeLab-orange?style=for-the-badge&logo=linuxcontainers&logoColor=white"</a>
 </div>
@@ -66,19 +66,19 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
       <tr>
    <th width=25%><sub>Oracle Cloud</sub></th>
 	<th width=25%><!-- Oracle OCI Foundation-->
-            <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499" target="_blank">
-              <img alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png" title="Expira: 27/07/2027" target="_blank">
+            <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499">
+              <img alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png" title="Expira: 27/07/2027">
             </a>
     </div>
   </div>
         </th>
         <th width=25%><!-- Oracle OCI Data Management-->
-            <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D63B1CF3669A4CE442502DD9FA8A15B4770443EBB4F8BCD3FE28CF96399598D8" target="_blank">
+            <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D63B1CF3669A4CE442502DD9FA8A15B4770443EBB4F8BCD3FE28CF96399598D8">
               <img alt="Oracle Cloud Data Management" src="/Badges/OCI-F-DT.png" title="Expira: 16/08/2025">
             </a>
         </th>
         <th width=25%><!-- Oracle OCI AI-->
-            <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2769EA13B7D2E9E1B4503BC229579EA750F9513A4047AF98B43E650CAE9714B2" target="_blank">
+            <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2769EA13B7D2E9E1B4503BC229579EA750F9513A4047AF98B43E650CAE9714B2">
               <img alt="Oracle Cloud AI Foundations Associate" src="/Badges/OCI-F-AI.png" title="Expira: 27/07/2026">
             </a>
         </th>
@@ -86,7 +86,7 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
   <tr>
     <th width=25%;><sub>Microsoft</sub></th>
         <th width=25%;><!-- Azure AZ-900-->
-            <a href="https://learn.microsoft.com/pt-br/users/idealista07/credentials/fbca56d8f6ee3edc" target="_blank">
+            <a href="https://learn.microsoft.com/pt-br/users/idealista07/credentials/fbca56d8f6ee3edc">
           	<img width=50%; alt="Azure Fundamentals" src="/Badges/AZ900.png" title="Expira: Vitalicio">
             </a>
         </th>
