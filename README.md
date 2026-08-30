@@ -67,7 +67,7 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
    <th width=25%><sub>Oracle Cloud</sub></th>
 	<th width=25%><!-- Oracle OCI Foundation-->
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499" target="_blank">
-              <img alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png" title="Expira: 27/07/2027">
+              <img alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png" title="Expira: 27/07/2027" target="_blank">
             </a>
     </div>
   </div>
