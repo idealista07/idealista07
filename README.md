@@ -67,19 +67,19 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
    <th width=25%><sub>Oracle Cloud</sub></th>
 	<th width=25%><!-- Oracle OCI Foundation-->
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499">
-              <img alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png" title="Expira: 30/08/2027">
+              <img alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png" title="Expira: 27/07/2027">
             </a>
     </div>
   </div>
         </th>
         <th width=25%><!-- Oracle OCI Data Management-->
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D63B1CF3669A4CE442502DD9FA8A15B4770443EBB4F8BCD3FE28CF96399598D8">
-              <img alt="Oracle Cloud Data Management" src="/Badges/OCI-F-DT.png">
+              <img alt="Oracle Cloud Data Management" src="/Badges/OCI-F-DT.png" title="Expira: 16/08/2025">
             </a>
         </th>
         <th width=25%><!-- Oracle OCI AI-->
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2769EA13B7D2E9E1B4503BC229579EA750F9513A4047AF98B43E650CAE9714B2">
-              <img alt="Oracle Cloud AI Foundations Associate" src="/Badges/OCI-F-AI.png">
+              <img alt="Oracle Cloud AI Foundations Associate" src="/Badges/OCI-F-AI.png" title="Expira: 27/07/2026">
             </a>
         </th>
   </tr>
@@ -87,17 +87,17 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
     <th width=25%;><sub>Microsoft</sub></th>
         <th width=25%;><!-- Azure AZ-900-->
             <a href="https://learn.microsoft.com/pt-br/users/idealista07/credentials/fbca56d8f6ee3edc">
-          	<img width=50%; alt="Azure Fundamentals" src="/Badges/AZ900.png">
+          	<img width=50%; alt="Azure Fundamentals" src="/Badges/AZ900.png" title="Expira: Vitalicio">
             </a>
         </th>
         <th width=25%;><!-- Azure SC-900-->
             <a href="https://learn.microsoft.com/pt-br/users/idealista07/credentials/1014ca08dd029f4e">
-              <img width=50%; alt="Fundamentos de Segurança, Conformidade e Identidade" src="/Badges/SC900.png">
+              <img width=50%; alt="Fundamentos de Segurança, Conformidade e Identidade" src="/Badges/SC900.png" title="Expira: Vitalicio">
             </a>
         </th>
           <th width=25%;><!-- Azure MS-900-->
             <a href="https://learn.microsoft.com/pt-br/users/idealista07/credentials/8a608aef0bc564fc">
-              <img width=50%; alt="Microsoft 365 Certified: Fundamentals" src="/Badges/ms-900-removebg-preview.png">
+              <img width=50%; alt="Microsoft 365 Certified: Fundamentals" src="/Badges/ms-900-removebg-preview.png" title="Expira: Vitalicio">
             </a> 
         </th>
    </tr>
@@ -105,12 +105,12 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
     	<th width=25%;><sub>Fortinet</sub></th>
             <th><!-- Fortinet Certified Fundamentals Cybersecurity-->
                 <a href="https://www.credly.com/earner/earned/badge/71f0aad0-5577-4dd0-9a9b-a46c929cd4ba">
-                	<img width=40%; alt="Fortinet Certified Fundamentals Cybersecurity" src="/Badges/FCF-C.png">
+                	<img width=40%; alt="Fortinet Certified Fundamentals Cybersecurity" src="/Badges/FCF-C.png" title="Expira: 22/07/2027">
                 </a>
             </th>
             <th width=25%;><!-- Fortinet Certified Associate Cybersecurity-->
                 <a href="https://www.credly.com/earner/earned/badge/7c2f2ac6-a053-4f4b-81af-96e554e0b977">
-                	<img width=40%; alt="Fortinet Certified Associate Cybersecurity" src="/Badges/FCA-C.png">
+                	<img width=40%; alt="Fortinet Certified Associate Cybersecurity" src="/Badges/FCA-C.png" title="Expira: 18/03/2027">
                 </a>
             </th>
             <th width=25%;></th>
@@ -119,7 +119,7 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
     <th width=25%;><sub>AWS</sub></th>
         <th> <!-- AWS Cloud Practitioner-->
             <a href="https://www.credly.com/earner/earned/badge/a5b5394d-7e41-4b81-94e0-d592a6f9dfdf">
-              <img width=50%; alt="Praticante de nuvem certificado pela AWS" src="/Badges/AWS-P.png">
+              <img width=50%; alt="Praticante de nuvem certificado pela AWS" src="/Badges/AWS-P.png" title="Expira: 08/09/2026">
             </a>
         </th>
         <th width=25%;></th>
@@ -129,12 +129,12 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
     <th width=25%;><sub>FinOps</sub></th>
         <th> <!-- FinOps Certified Practitioner-->
             <a href="https://www.credly.com/earner/earned/badge/b035f7ae-cfc4-4566-9781-4aa2a185f144">
-              <img alt="FinOps Certified Practitioner" width=50%; src="/Badges/FINOPS-P.png">
+              <img alt="FinOps Certified Practitioner" width=50%; src="/Badges/FINOPS-P.png" title="Expira: 20/12/2026">
             </a>
         </th>
         <th width=25%;><!-- FinOps Certified FOCUS Analyst-->
             <a href="https://www.credly.com/earner/earned/badge/c067b683-11ab-4c4b-ad2f-aa32b485c400">
-              <img alt="FinOps Certified Practitioner" width=50%; src="/Badges/finops_focus.png">
+              <img alt="FinOps Certified Practitioner" width=50%; src="/Badges/finops_focus.png" title="Expira: 18/02/2028">
             </a>
         </th>	
         <th width=25%;></th> 
@@ -143,7 +143,7 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
     <th width=25%;><sub>Mikrotik</sub></th>
             <th><!-- Mikrotik MTCNA COD=2211NA7531 -->
             <a href="https://mikrotik.com/training/certificates/b247531cbb261197d133">
-              <img width=50%; alt="" src="/Badges/MTCNA.png">
+              <img width=50%; alt="" src="/Badges/MTCNA.png" title="Expira: 27/11/2025">
             </a>
             </th>
             <th width=25%;></th>
@@ -153,7 +153,7 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
     <th width=25%;><sub>Xfusion Server</sub></th>
             <th><!-- Xfusion Server COD=XFU01FCIA011191 -->
             <a href="https://xlearning.xfusion.com/partner/#/certificateQuery">
-              <img  alt="" src="/Badges/FCIA.png">
+              <img  alt="" src="/Badges/FCIA.png" title="Expira: 15/03/2027">
             </a>
             </th>
             <th width=25%;></th>
