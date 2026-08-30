@@ -67,8 +67,10 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
    <th width=25%><sub>Oracle Cloud</sub></th>
 	<th width=25%><!-- Oracle OCI Foundation-->
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499">
-              <img alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png">
+              <img alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png" title="Expira: 30/08/2027">
             </a>
+    </div>
+  </div>
         </th>
         <th width=25%><!-- Oracle OCI Data Management-->
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D63B1CF3669A4CE442502DD9FA8A15B4770443EBB4F8BCD3FE28CF96399598D8">
