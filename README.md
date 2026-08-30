@@ -66,19 +66,19 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
       <tr>
    <th width=25%><sub>Oracle Cloud</sub></th>
 	<th width=25%><!-- Oracle OCI Foundation-->
-            <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499">
+            <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9FB4D5C3DAA201B115CCE8EF6392CEAAA27CF7ED36A292D367C8183C62799499" target="_blank">
               <img alt="Oracle Cloud Infrastructure Foundations" src="/Badges/OCI-F.png" title="Expira: 27/07/2027">
             </a>
     </div>
   </div>
         </th>
         <th width=25%><!-- Oracle OCI Data Management-->
-            <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D63B1CF3669A4CE442502DD9FA8A15B4770443EBB4F8BCD3FE28CF96399598D8">
+            <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D63B1CF3669A4CE442502DD9FA8A15B4770443EBB4F8BCD3FE28CF96399598D8" target="_blank">
               <img alt="Oracle Cloud Data Management" src="/Badges/OCI-F-DT.png" title="Expira: 16/08/2025">
             </a>
         </th>
         <th width=25%><!-- Oracle OCI AI-->
-            <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2769EA13B7D2E9E1B4503BC229579EA750F9513A4047AF98B43E650CAE9714B2">
+            <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2769EA13B7D2E9E1B4503BC229579EA750F9513A4047AF98B43E650CAE9714B2" target="_blank">
               <img alt="Oracle Cloud AI Foundations Associate" src="/Badges/OCI-F-AI.png" title="Expira: 27/07/2026">
             </a>
         </th>
@@ -86,7 +86,7 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
   <tr>
     <th width=25%;><sub>Microsoft</sub></th>
         <th width=25%;><!-- Azure AZ-900-->
-            <a href="https://learn.microsoft.com/pt-br/users/idealista07/credentials/fbca56d8f6ee3edc">
+            <a href="https://learn.microsoft.com/pt-br/users/idealista07/credentials/fbca56d8f6ee3edc" target="_blank">
           	<img width=50%; alt="Azure Fundamentals" src="/Badges/AZ900.png" title="Expira: Vitalicio">
             </a>
         </th>
