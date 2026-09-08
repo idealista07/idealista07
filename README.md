@@ -119,7 +119,7 @@ Diferente de abordagens puramente teóricas, todos os designs arquiteturais e so
     <th width=25%;><sub>AWS</sub></th>
         <th> <!-- AWS Cloud Practitioner-->
             <a href="https://www.credly.com/earner/earned/badge/a5b5394d-7e41-4b81-94e0-d592a6f9dfdf">
-              <img width=50%; alt="Praticante de nuvem certificado pela AWS" src="/Badges/AWS-P.png" title="Expira: 08/09/2026">
+              <img width=50%; alt="Praticante de nuvem certificado pela AWS" src="/Badges/AWS-P.png" title="Expira: 08/09/2029">
             </a>
         </th>
         <th width=25%;></th>
